@@ -1,2 +1,2 @@
 ![Susan](susan.png)
-[![Susan](susan-qr.png)](https://www.venmo.com/u/FRCSparta)
+<a href="https://www.venmo.com/u/FRCSparta"><img src="susan-qr.png" width="300"></a>
