@@ -1,3 +1,3 @@
-# Karin Kerr
+# FRC
 
-- [Venmo](./venmo.md)
+- [Susan](./susan.md)
