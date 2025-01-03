@@ -1,5 +1,1 @@
-# Susan
-
-Here's a link:
-
-[![Susan](susan.jpg)](https://kennykerr.ca)
+[![Susan](susan.png)](https://kennykerr.ca)

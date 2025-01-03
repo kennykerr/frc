@@ -3,3 +3,6 @@ title = "FRC"
 
 [build]
 build-dir = "docs"
+
+[output.html]
+additional-css = ["css/styles.css"]
