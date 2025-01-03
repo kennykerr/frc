@@ -1,0 +1,5 @@
+[book]
+title = "Karin Kerr"
+
+[build]
+build-dir = "docs"
